@@ -1,5 +1,0 @@
-E:\WEBAPINETCORE\WEBAPINETCORE\Domain\bin\Debug\Domain.dll
-E:\WEBAPINETCORE\WEBAPINETCORE\Domain\bin\Debug\Domain.pdb
-E:\WEBAPINETCORE\WEBAPINETCORE\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
-E:\WEBAPINETCORE\WEBAPINETCORE\Domain\obj\Debug\Domain.dll
-E:\WEBAPINETCORE\WEBAPINETCORE\Domain\obj\Debug\Domain.pdb
