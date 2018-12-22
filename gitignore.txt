@@ -1,0 +1,9 @@
+DataAccess/bin/*
+DataAccess/obj/*
+DataAccessRepo/bin/*
+DataAccessRepo/obj/*
+Domain/bin/*
+Domain/obj/*
+packages
+WEBAPINETCORE/bin/*
+WEBAPINETCORE/obj/*
